@@ -1,8 +1,0 @@
-vim.lsp.config("pyright", {})
-vim.lsp.config("clangd", {})
-vim.lsp.config("lua_ls", {})
-vim.lsp.config("html", {})
-vim.lsp.config("cssls", {})
-vim.lsp.config("tsserver", {})
-vim.lsp.config("eslint", {})
-vim.lsp.config("emmet_ls", {})

@@ -1,5 +1,4 @@
 require("config.lazy")
-require("lsp")
 
 -- General settings
 vim.opt.hlsearch = true
